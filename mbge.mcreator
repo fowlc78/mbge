@@ -1,0 +1,64 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "Bourvil",
+      "type": "musicdisc",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bourvil"
+    },
+    {
+      "name": "Lootbourvil",
+      "type": "loottable",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lootbourvil"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [
+    {
+      "name": "bourvil",
+      "files": [
+        "bourvil"
+      ],
+      "category": "master",
+      "subtitle": "chaiplus"
+    }
+  ],
+  "language_map": {
+    "en_us": {
+      "subtitles.bourvil": "chaiplus",
+      "item.mbge.bourvil.desc": "ta soeur est grosse mélissandre",
+      "item.mbge.bourvil": "Bourvil"
+    },
+    "fr_fr": {
+      "subtitles.bourvil": "chaiplus",
+      "item.mbge.bourvil.desc": "ta soeur est grosse mélissandre",
+      "item.mbge.bourvil": "Bourvil"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "mbge",
+    "modName": "MBGE",
+    "version": "1.0.0",
+    "author": "Constantin, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.15.2",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.mbge",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000547520
+}

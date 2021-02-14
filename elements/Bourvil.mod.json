@@ -1,0 +1,17 @@
+{
+  "_fv": 13,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "disque_13",
+    "name": "Bourvil",
+    "description": "ta soeur est grosse mélissandre",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "music": {
+      "value": "CUSTOM:bourvil"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "bourvil": {
+    "category": "master",
+    "subtitle": "subtitles.bourvil",
+    "sounds": [
+      {
+        "name": "mbge:bourvil",
+        "stream": false
+      }
+    ]
+  }
+}
