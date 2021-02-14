@@ -1,0 +1,19 @@
+{
+  "group": "mbge",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:redstone_wire"
+    },
+    {
+      "item": "minecraft:chest"
+    },
+    {
+      "item": "minecraft:obsidian"
+    }
+  ],
+  "result": {
+    "item": "mbge:hamburger",
+    "count": 12
+  }
+}

@@ -18,6 +18,6 @@ public class Bite2Painting extends MbgeModElements.ModElement {
 
 	@SubscribeEvent
 	public void registerPaintingType(RegistryEvent.Register<PaintingType> event) {
-		event.getRegistry().register(new PaintingType(16, 16).setRegistryName("bite_2"));
+		event.getRegistry().register(new PaintingType(64, 64).setRegistryName("bite_2"));
 	}
 }

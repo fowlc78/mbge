@@ -36,6 +36,24 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "hamburger"
+    },
+    {
+      "name": "Chambuger",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chambuger"
+    },
+    {
+      "name": "Mbge",
+      "type": "tab",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mbge"
     }
   ],
   "variable_elements": [],
@@ -54,13 +72,15 @@
       "subtitles.bourvil": "chaiplus",
       "item.mbge.bourvil.desc": "ta soeur est grosse mélissandre",
       "item.mbge.hamburger": "bitonnet",
-      "item.mbge.bourvil": "Bourvil"
+      "item.mbge.bourvil": "Bourvil",
+      "itemGroup.tabmbge": "Mbge"
     },
     "fr_fr": {
       "subtitles.bourvil": "chaiplus",
       "item.mbge.bourvil.desc": "ta soeur est grosse mélissandre",
       "item.mbge.hamburger": "bitonnet",
-      "item.mbge.bourvil": "Bourvil"
+      "item.mbge.bourvil": "Bourvil",
+      "itemGroup.tabmbge": "Mbge"
     }
   },
   "workspaceSettings": {

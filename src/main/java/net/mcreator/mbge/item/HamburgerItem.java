@@ -27,18 +27,13 @@ public class HamburgerItem extends MbgeModElements.ModElement {
 	public static class FoodItemCustom extends Item {
 		public FoodItemCustom() {
 			super(new Item.Properties().group(ItemGroup.FOOD).maxStackSize(64).rarity(Rarity.COMMON)
-					.food((new Food.Builder()).hunger(8).saturation(2f).build()));
+					.food((new Food.Builder()).hunger(8).saturation(2f).setAlwaysEdible().build()));
 			setRegistryName("hamburger");
 		}
 
 		@Override
-		public int getUseDuration(ItemStack stack) {
-			return 0;
-		}
-
-		@Override
 		public UseAction getUseAction(ItemStack itemstack) {
-			return UseAction.NONE;
+			return UseAction.EAT;
 		}
 	}
 }

@@ -14,13 +14,13 @@
     "stackSize": 64,
     "nutritionalValue": 8,
     "saturation": 2.0,
-    "eatingSpeed": 0,
+    "eatingSpeed": 32,
     "resultItem": {
       "value": ""
     },
     "forDogs": false,
-    "isAlwaysEdible": false,
-    "animation": "none",
+    "isAlwaysEdible": true,
+    "animation": "eat",
     "hasGlow": false
   }
 }
