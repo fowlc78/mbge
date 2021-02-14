@@ -27,6 +27,15 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "bite_2"
+    },
+    {
+      "name": "Hamburger",
+      "type": "food",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hamburger"
     }
   ],
   "variable_elements": [],
@@ -44,11 +53,13 @@
     "en_us": {
       "subtitles.bourvil": "chaiplus",
       "item.mbge.bourvil.desc": "ta soeur est grosse mélissandre",
+      "item.mbge.hamburger": "bitonnet",
       "item.mbge.bourvil": "Bourvil"
     },
     "fr_fr": {
       "subtitles.bourvil": "chaiplus",
       "item.mbge.bourvil.desc": "ta soeur est grosse mélissandre",
+      "item.mbge.hamburger": "bitonnet",
       "item.mbge.bourvil": "Bourvil"
     }
   },
