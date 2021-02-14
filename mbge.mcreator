@@ -18,6 +18,15 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "lootbourvil"
+    },
+    {
+      "name": "Bite2",
+      "type": "painting",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bite_2"
     }
   ],
   "variable_elements": [],
